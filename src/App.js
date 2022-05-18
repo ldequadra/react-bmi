@@ -55,7 +55,7 @@ export default function App(){
   return(
     <div className="app">
       <h1>BMI Calculator</h1>
-      <span>Let's calculate your Body Mass Index. Type the values below</span>
+      <span>Let's calculate your Body Mass Index. <br></br> Type the values below</span>
       
       <div className="area-input">
         <input

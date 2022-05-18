@@ -19,6 +19,8 @@ h2 {
 
 span {
     margin: 12px 0;
+    display: flex;
+    text-align: center;
 }
 
 .area-input {
@@ -62,4 +64,11 @@ span {
 
 .area-input button:hover {
     background-color: rgb(26, 99, 224, 0.8);
+}
+
+/* When the screen size is less than 500px */
+@media (max-width: 500px) {
+  .area-input {
+    width: 300px;
+  }
 }
