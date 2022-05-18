@@ -1,5 +1,7 @@
 # BMI Calculator made with React JS
 
+![Page preview](/src/img/preview.png)
+
 You can access the final result here: [BMI Calculator](https://ldequadra.github.io/react-bmi/)
 
 ## Credits
